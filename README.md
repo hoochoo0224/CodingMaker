@@ -48,10 +48,10 @@ backend/
 cd frontend
 
 # 의존성 설치
-npm install
+tarn install
 
 # 개발 서버 실행 (http://localhost:5173)
-npm run dev
+yarn run vite
 
 ### 2. 백엔드 설정
 # 가상환경 생성 및 활성화
