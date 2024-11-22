@@ -1,0 +1,28 @@
+.chat-input-container {
+    border-top: 1px solid #e5e7eb;
+    padding: 1rem;
+    background-color: white;
+  }
+  
+  .chat-input-form {
+    display: flex;
+    gap: 0.5rem;
+  }
+  
+  .chat-input-field {
+    flex: 1;
+    height: 2.5rem;
+    font-size: 0.875rem;
+    border-color: #e5e7eb;
+  }
+  
+  .chat-submit-button {
+    background-color: #111827;
+    color: white;
+    padding: 0 1.5rem;
+    height: 2.5rem;
+  }
+  
+  .chat-submit-button:hover {
+    background-color: #1f2937;
+  }
