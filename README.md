@@ -48,7 +48,7 @@ backend/
 cd frontend
 
 # 의존성 설치
-tarn install
+yarn install
 
 # 개발 서버 실행 (http://localhost:5173)
 yarn run vite
